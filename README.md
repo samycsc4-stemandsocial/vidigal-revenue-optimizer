@@ -1,6 +1,6 @@
 # Vidigal Revenue Optimizer: Quantifying the 'Trust Tax'
-**Author:** Samuel [Your Last Name]  
-**Context:** Fieldwork in Vidigal, Rio de Janeiro (2025)  
+**Author:** Samuel Cardona
+**Context:** Fieldwork in Vidigal, Rio de Janeiro (July-Sept,2025)  
 **Status:** Proof of Concept / Working Prototype
 
 ## Project Overview
@@ -28,4 +28,4 @@ The core script (`vidigal_optimizer.py`) calculates lost revenue based on three 
 Early deployment of this logic in Vidigal suggested a potential **60% reduction in transaction friction** and a **20% increase in revenue stability** by bridging the gap to global supply chains.
 
 ---
-*This code supports the working paper: "The Algorithm of the Street: Quantifying Trust in Vidigal's Informal Sector".*
+*This code supports the working paper: "The Algorithm of the Street: Quantifying Trust in Vidigal's Informal Sector".*# vidigal-revenue-optimizer
